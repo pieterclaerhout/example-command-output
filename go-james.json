@@ -4,7 +4,7 @@
         "version": "1.0.0",
         "description": "",
         "copyright": "",
-        "main_package": "github.com/pieterclaerhout/command-output/cmd/example-command-output"
+        "main_package": "github.com/pieterclaerhout/example-command-output/cmd/example-command-output"
     },
     "build": {
         "ouput_path": "build",
