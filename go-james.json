@@ -7,7 +7,7 @@
         "main_package": "github.com/pieterclaerhout/example-command-output/cmd/example-command-output"
     },
     "build": {
-        "ouput_path": "build",
+        "output_path": "build",
         "ld_flags": [
             "-s",
             "-w"
