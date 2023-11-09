@@ -1,0 +1,41 @@
+repo_name: pieterclaerhout/example-command-output
+report_id: e4580e320bdc3d71bef583869690d040
+repo_type: Public
+timestamp: '2023-11-09T11:32:21+00:00'
+requested_by: pieterclaerhout
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Visual Studio Code
+  description: Build and debug modern web and cloud applications, by Microsoft
+  website_url: https://code.visualstudio.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source: ".vscode/tasks.json"
+  last_updated_by: Pieter Claerhout
+  last_updated_on: 2019-11-12 19:47:42.000000000 Z
