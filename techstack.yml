@@ -1,7 +1,8 @@
 repo_name: pieterclaerhout/example-command-output
 report_id: e4580e320bdc3d71bef583869690d040
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T11:32:21+00:00'
+timestamp: '2024-01-04T14:52:54+00:00'
 requested_by: pieterclaerhout
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/pieterclaerhout/example-command-output
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,6 +28,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/pieterclaerhout/example-command-output
   detection_source: Repo Metadata
 - name: Visual Studio Code
   description: Build and debug modern web and cloud applications, by Microsoft
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/pieterclaerhout/example-command-output/blob/master/.vscode/tasks.json
   detection_source: ".vscode/tasks.json"
   last_updated_by: Pieter Claerhout
   last_updated_on: 2019-11-12 19:47:42.000000000 Z
